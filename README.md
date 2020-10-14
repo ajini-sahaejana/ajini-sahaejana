@@ -1,13 +1,23 @@
-### Hi there 👋
-
-<!--
-**ajini-sahaejana/ajini-sahaejana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<h1 align="center">Hi 👋, I'm Buddhika Dananjaya</h1>
-<h3 align="center">Hi, I'm Buddhika Dananjaya, 🚀 from Srilanka, currently, I'm a Undergraduate in NSBM 👨🏽‍💻 Beside's
-    programming, I enjoy my friends and communities.</h3>
+<h1 align="center">Hi there 👋<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<GIF_NAME>.gif" width="30px">
+</h1>
+<h3 align="center">I'm Ajini Perera, a Software Engineering Undergraduate at University of Plymouth. I'm from Sri Lanka, and currently working at Sri Lanka Institute of Robotics as a Kids Rids Robotics Lecturer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&color=brightgreen" alt="BuddhikaD" /> </p>
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently student as **National School Of Business Management**
+
+- 🌱 I’m currently learning **Webdev**
+
+- 👯 I’m looking to collaborate on **open source/commercial projects**
+
+- ❤ I’m open source lover
+
+- ⚙️ I use daily: `.html`, `.js`, `.react`, `.css`,
+
+- 💬 Ask me about **Web development**
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
