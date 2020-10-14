@@ -28,7 +28,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajini-sahaejana&layout=compact"
         alt="ajini" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true"
+        <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true"
         alt="ajini" /></p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajini-sahaejana&color=brightgreen" alt="ajini" /> </p>
