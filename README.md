@@ -1,5 +1,5 @@
 <h1>Hi there 👋</h1>
-<h3 align="center">I'm Ajini Perera, a Software Engineering Undergraduate and a Kids Rids Robotics Lecturer</h3>
+<h3>I'm Ajini Perera, a Software Engineering Undergraduate and a Kids Rids Robotics Lecturer</h3>
 
 - 🔭 I’m currently working at Sri Lanka Institute of Robotics
 - 🌱 I’m currently learning Software Engineering
@@ -28,9 +28,7 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajini-sahaejana&layout=compact"
         alt="ajini" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true"
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true"
         alt="ajini" /></p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajini-sahaejana&color=brightgreen" alt="ajini" /> </p>
