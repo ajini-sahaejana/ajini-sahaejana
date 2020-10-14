@@ -27,8 +27,7 @@
             width="40" height="40" /> </a> </p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajini-sahaejana&layout=compact"
-        alt="ajini" /></p>
-        <p> <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true"
+        alt="ajini" /> <img src="https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true"
         alt="ajini" /></p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajini-sahaejana&color=brightgreen" alt="ajini" /> </p>
