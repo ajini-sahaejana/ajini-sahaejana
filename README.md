@@ -16,8 +16,6 @@
             src="https://devicon.dev/devicon.git/icons/java/java-plain.svg" alt="java"
             width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img
             src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp"
-            width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"> <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"
             width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"
             width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"> <img
@@ -34,5 +32,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true"
         alt="ajini" /></p>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajini-sahaejana&color=brightgreen" alt="ajini" /> </p>
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+-->
