@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+###Hi there 👋
 <h3 align="center">I'm Ajini Perera, a Software Engineering Undergraduate at University of Plymouth. I'm from Sri Lanka, and currently working at Sri Lanka Institute of Robotics as a Kids Rids Robotics Lecturer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&color=brightgreen" alt="BuddhikaD" /> </p>
