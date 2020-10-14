@@ -2,8 +2,12 @@
 
 <!--
 **ajini-sahaejana/ajini-sahaejana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<h1 align="center">Hi 👋, I'm Buddhika Dananjaya</h1>
+<h3 align="center">Hi, I'm Buddhika Dananjaya, 🚀 from Srilanka, currently, I'm a Undergraduate in NSBM 👨🏽‍💻 Beside's
+    programming, I enjoy my friends and communities.</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&color=brightgreen" alt="BuddhikaD" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
