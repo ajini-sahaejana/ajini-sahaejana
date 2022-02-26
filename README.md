@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/ajini.sahaejana/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/ajinisahaejana" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img
+<!-- <p align="left"> <a href="https://www.java.com/en/" target="_blank"> <img
             src="https://devicon.dev/devicon.git/icons/java/java-plain.svg" alt="java"
             width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img
             src="https://devicon.dev/devicon.git/icons/csharp/csharp-plain.svg" alt="csharp"
@@ -24,7 +24,7 @@
         target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql"
-            width="40" height="40" /> </a> </p>
+            width="40" height="40" /> </a> </p> -->
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajini-sahaejana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![github stats](https://github-readme-stats.vercel.app/api?username=ajini-sahaejana&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
