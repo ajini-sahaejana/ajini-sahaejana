@@ -2,7 +2,7 @@
 <h3>I'm Ajini Perera, a Software Engineering Undergraduate and a Kids Rids Robotics Lecturer</h3>
 
 - 🔭 I’m currently working at Sri Lanka Institute of Robotics
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently studying as a Final Year Software Engineering Undergraduate
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about anything! 
 - 📫 Reach me via ajisahejana@gmail.com
